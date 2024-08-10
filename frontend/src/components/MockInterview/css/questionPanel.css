@@ -1,0 +1,16 @@
+.custom-scrollbar::-webkit-scrollbar {
+  width: 8px; /* Adjust the width as needed */
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  background-color: #888; /* Adjust the color as needed */
+  border-radius: 10px; /* Adjust the border radius as needed */
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb:hover {
+  background-color: #555; /* Adjust the hover color as needed */
+}
+.modal {
+    position: relative;
+    z-index: 10;
+  }

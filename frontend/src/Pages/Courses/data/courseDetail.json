@@ -1,0 +1,76 @@
+
+
+[
+    {
+        "id": 1,
+        "name": "Web Development",
+        "img": "https://miro.medium.com/v2/resize:fit:828/format:webp/0*M4bxiCIjcTK-2Xr6.jpeg",
+        "price": "₹ 1499",
+        "rating": "4.7/5",
+        "about1":"Web development is the process of building and maintaining websites and web applications. It includes aspects such as web design, web publishing, web programming, and database management. While the terms web design and web development are often used interchangeably, web design typically refers to the user experience aspects of website building, while web development focuses on the technical aspects of creating websites and web applications.",
+        "about2":"Web development can range from creating simple static web pages to complex web applications that involve dynamic content, user interaction, and database integration. Web developers use a variety of programming languages, frameworks, and tools to create websites and web applications. Some common technologies used in web development include HTML, CSS, JavaScript, PHP, and MySQL. Web developers may specialize in front-end development, back-end development, or full-stack development, depending on their skills and interests."
+    },
+    {
+        "id": 2,
+        "name": "App Development",
+        "img": "https://img.freepik.com/free-vector/gradient-ui-ux-background_23-2149051191.jpg?size=626&ext=jpg&ga=GA1.1.735520172.1712188800&semt=ais",
+        "price": "₹ 1999",
+        "rating": "4.8/5",
+        "about1":"App development is the process of creating software applications for mobile devices, web platforms, or desktop environments. It typically involves several stages, including planning, design, coding, testing, and deployment. During the planning phase, developers outline the app's purpose, target audience, and features. This is followed by designing the user interface (UI) and user experience (UX) to ensure that the app is both visually appealing and easy to navigate.",
+        "about2":"Once the design is finalized, developers write the code using programming languages and frameworks suited for the chosen platform, such as Swift for iOS or Java for Android. After coding, the app undergoes rigorous testing to identify and fix bugs, improve performance, and ensure compatibility across different devices and operating systems. Quality assurance is crucial in this phase to provide a seamless experience for users. Once the app passes testing, it is launched on platforms like the Apple App Store or Google Play Store, where users can download it. Post-launch, developers often gather user feedback to make improvements, release updates, and add new features, ensuring the app remains relevant and functional in a rapidly evolving technological landscape."
+    },
+    {
+        "id": 3,
+        "name": "Artificial Intelligence",
+        "img": "https://cdn.prod.website-files.com/61845f7929f5aa517ebab941/6440f9477c2a321f0dd6ab61_How%20Artificial%20Intelligence%20(AI)%20Is%20Used%20In%20Biometrics.jpg",
+        "price": "₹ 999",
+        "rating": "4.9/5",
+        "about1":"Artificial intelligence (AI) is the simulation of human intelligence processes by machines, especially computer systems. These processes include learning (the acquisition of information and rules for using the information), reasoning (using rules to reach approximate or definite conclusions), and self-correction. Particular applications of AI include expert systems, speech recognition, and machine vision.",
+        "about2":"This course will introduce you to the basics of AI. Topics include machine learning, probabilistic reasoning, robotics, computer vision, and natural language processing. You will learn about the history of AI, its applications, and the ethical considerations surrounding its use. By the end of the course, you will have a solid understanding of AI and its potential impact on society."
+    },
+    {
+        "id": 4,
+        "name": "Blockchain",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRUvyvEy0IEGppcl5NF0A6Lk6g1RE1RcHTYA&s",
+        "price": "₹ 1499",
+        "rating": "4.7/5",
+        "about1":"Blockchain is a decentralized, distributed ledger technology that records the provenance of a digital asset. It is designed to be secure, transparent, and resistant to fraud. Blockchain technology is most commonly associated with cryptocurrencies like Bitcoin, but it has many other potential applications beyond digital currencies. These include supply chain management, voting systems, identity verification, and smart contracts.",
+        "about2":"This course will introduce you to the fundamentals of blockchain technology. You will learn about the history of blockchain, how it works, and its potential applications in various industries. Topics covered include cryptographic hash functions, consensus algorithms, smart contracts, and decentralized applications. By the end of the course, you will have a solid understanding of blockchain technology and its potential impact on the future of business and society."
+    },
+    {
+        "id": 5,
+        "name": "Cybersecurity",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKCSJDP0-2JoFpKhCavL6r6ZMjPWGhnnH9Yw&s",
+        "price": "₹ 1999",
+        "rating": "4.8/5",
+        "about1":"Cybersecurity is the practice of protecting computer systems, networks, and data from digital attacks. These attacks are usually aimed at accessing, changing, or destroying sensitive information; extorting money from users; or interrupting normal business processes. Implementing effective cybersecurity measures is particularly challenging today because there are more devices than people, and attackers are becoming more innovative.",
+        "about2":"This course will introduce you to the basics of cybersecurity. You will learn about common cyber threats, such as malware, phishing, and ransomware, and how to protect against them. Topics covered include network security, cryptography, risk management, and incident response. By the end of the course, you will have a solid understanding of cybersecurity principles and best practices, as well as the skills to secure your own digital assets."
+    },
+    {
+        "id": 6,
+        "name": "Dev Ops",
+        "img": "https://imageio.forbes.com/specials-images/imageserve/60f1e792c7e89f933811814c/DevOps-concept/960x0.jpg?format=jpg&width=960",
+        "price": "₹ 999",
+        "rating": "4.9/5",
+        "about1":"Artificial intelligence (AI) is the simulation of human intelligence processes by machines, especially computer systems. These processes include learning (the acquisition of information and rules for using the information), reasoning (using rules to reach approximate or definite conclusions), and self-correction. Particular applications of AI include expert systems, speech recognition, and machine vision.",
+        "about2":"This course will introduce you to the basics of AI. Topics include machine learning, probabilistic reasoning, robotics, computer vision, and natural language processing. You will learn about the history of AI, its applications, and the ethical considerations surrounding its use. By the end of the course, you will have a solid understanding of AI and its potential impact on society."
+    },
+    {
+        "id": 7,
+        "name": "Data Science",
+        "img": "https://www.fsm.ac.in/blog/wp-content/uploads/2022/07/FUqHEVVUsAAbZB0.jpg",
+        "price": "₹ 999",
+        "rating": "4.9/5",
+        "about1":"Artificial intelligence (AI) is the simulation of human intelligence processes by machines, especially computer systems. These processes include learning (the acquisition of information and rules for using the information), reasoning (using rules to reach approximate or definite conclusions), and self-correction. Particular applications of AI include expert systems, speech recognition, and machine vision.",
+        "about2":"This course will introduce you to the basics of AI. Topics include machine learning, probabilistic reasoning, robotics, computer vision, and natural language processing. You will learn about the history of AI, its applications, and the ethical considerations surrounding its use. By the end of the course, you will have a solid understanding of AI and its potential impact on society."
+    },
+    {
+        "id": 8,
+        "name": "Machine Learning",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjyHA0z64Zo0Ovz0X6MSIoyjqPYkUVHYFgoQ&s",
+        "price": "₹ 999",
+        "rating": "4.9/5",
+        "about1":"Artificial intelligence (AI) is the simulation of human intelligence processes by machines, especially computer systems. These processes include learning (the acquisition of information and rules for using the information), reasoning (using rules to reach approximate or definite conclusions), and self-correction. Particular applications of AI include expert systems, speech recognition, and machine vision.",
+        "about2":"This course will introduce you to the basics of AI. Topics include machine learning, probabilistic reasoning, robotics, computer vision, and natural language processing. You will learn about the history of AI, its applications, and the ethical considerations surrounding its use. By the end of the course, you will have a solid understanding of AI and its potential impact on society."
+    }
+]
