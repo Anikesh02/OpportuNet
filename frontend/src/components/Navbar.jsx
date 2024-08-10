@@ -41,7 +41,7 @@ function Navbar() {
       path: "/companies",
     },
     {
-      title: "Interview Room",
+      title: "Code Sync",
       path: "/room",
     },
     {

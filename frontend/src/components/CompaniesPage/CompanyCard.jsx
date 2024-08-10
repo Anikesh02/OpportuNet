@@ -7,7 +7,7 @@ function CompanyCard({ bgColor, company }) {
     companyName,
     companyLogo,
     jobListings,
-    companySize,
+    companySize = {},
     companySocialProfiles,
   } = company;
 
